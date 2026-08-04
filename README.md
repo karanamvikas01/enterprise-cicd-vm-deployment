@@ -557,4 +557,4 @@ It showcases practical DevOps concepts including automated builds, code quality 
 
 The experience gained through this implementation provides a strong foundation for advancing toward enterprise Continuous Deployment (CD), containerization, Kubernetes, and Site Reliability Engineering (SRE) practices.
 
-Final CI/CD Automation testing...
+Final CI/CD Automation testing... Trial - 1
