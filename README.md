@@ -558,3 +558,4 @@ It showcases practical DevOps concepts including automated builds, code quality 
 The experience gained through this implementation provides a strong foundation for advancing toward enterprise Continuous Deployment (CD), containerization, Kubernetes, and Site Reliability Engineering (SRE) practices.
 
 Webhook testing - 1
+Repository restructured for enterprise CI/CD pipeline.
